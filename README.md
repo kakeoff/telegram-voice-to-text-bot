@@ -4,7 +4,7 @@
 
 ## Preview
 
-![image](client/src/assets/images/preview.png)
+![image](src/assets/images/preview.png)
 
 ## Features
 
