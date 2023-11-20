@@ -1,6 +1,6 @@
 # Telegram voice-to-text-bot
 
-> Telegram bot that converts voice messages to text messages using Sber Salute Speech
+> Telegram bot that converts voice messages to text messages using [Sber Salute Speech](https://developers.sber.ru/portal/products/smartspeech)
 
 ## Preview
 
